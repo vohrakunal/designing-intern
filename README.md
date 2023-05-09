@@ -1,28 +1,24 @@
+# Panicle Tech SDE (Designing) - Intern May 2023
+
+**Charts, Tables, and Forms in React**  
+
+
 ## 1. Instructions
+This assignment would be an analysis of your UX/UI skills and creativity.
 
-In this assignment, we would be analyzing the UI/UX skills and  of a given image and identifying key,
-areas that can be enhanced to improve the user experience.
+You are provided with an image/screenshot. Using that image create your own design with grids and mobile responsiveness(bonus). Make sure the design has all the functionalities that are visible.
 
 
-### A. Image 
- - The image we will be using for this assignment is shown below:
+### A. Image/Screenshot with functionalities
 
 ![Screenshot](AssigmentImage.png),
 
-- Create a Login and SignUp page for that.
+- Create a Login and SignUp page for that (Bonus).
 
 
-
-
-## 2. Guidelines and Submission
- - Use git for code management
- - Submit your code on a Github repository.  
- - Include a README file that describes your application and how to run it.  
- - Include screenshots or a video of your application in action.  
+## 2. Submission Guidelines
  - Submission timeline: 24 hrs 
+ - Share a public link of figma/adobe xd or similiar tool over email.
+ - Don't use webflow
  
-
-## 3.  Analysis:
- - After analyzing the image, we have identified the following key areas that can be enhanced to improve the UI/UX. 
- - In conclusion, by enhancing the navigation,  buttons,  images,  information, and  section.
- - we can greatly improve the UI/UX of the given image and provide a better user experience for user.
+*Best of Luck*
